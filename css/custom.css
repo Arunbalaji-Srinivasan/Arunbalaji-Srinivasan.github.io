@@ -305,9 +305,9 @@ div.home.sec-pTB{
 .works_tab                           {width: 350px;height:60vh;color:#181818;position: relative;z-index: 1;border:10px solid #181818;/*border-right: 0px;*/background-size: cover; background-repeat: no-repeat; margin:0em 3em 1em 0em; float: left; position: relative;z-index: 1069;}
 .works_tab::after 								   {opacity:0.33;background: #5c28b0; background: -moz-linear-gradient(-45deg, #5c28b0 0%, #8ef7e5 100%); background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #5c28b0), color-stop(100%, #8ef7e5)); background: -webkit-linear-gradient(-45deg, #5c28b0 0%, #11edc7 100%); background: -o-linear-gradient(-45deg, #5c28b0 0%, #8ef7e5 100%); background: -ms-linear-gradient(-45deg, #5c28b0 0%, #8ef7e5 100%); background: linear-gradient(135deg, #5c28b0 0%, #8ef7e5 100%);
   filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#5c28b0', endColorstr='#8ef7e5', GradientType=1);content: "";width: 100%;height: 100%;position: absolute;left: 0;top: 0;z-index:-1;}
-.mywallet_bg                        {background-image: url('../images/projects/petitions.jpg');}
+.mywallet_bg                        {background-image: url('../images/projects/petitions.JPG');}
 .mywebsite_bg                       {background-image: url('../images/projects/mywebsite.jpg');}
-.apl_bg                             {background-image: url('../images/projects/weather.jpg');}
+.apl_bg                             {background-image: url('../images/projects/weather.JPG');}
 .mazda_bg                           {background-image: url('../images/projects/pwo.jpeg');}
 
 .nbr_index                          {position:absolute; top:10px; left:-30px;color:#fff; font-size:.8em; padding:1em; background-color:#000;-webkit-transform: skewY(20deg);-moz-transform: skewY(20deg);transform: skewY(20deg);}
